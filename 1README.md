@@ -10,17 +10,8 @@ A professional, keyboard-driven Wayland workspace configuration for Fedora Linux
 
 ---
 
-## Visual Showcase
-
-### Desktop Interaction & Workflow
-
-https://github.com/forbidden402/niri-noctalia-dotfiles/assets/videos/workflow_demo.mp4
-
----
-
 ## Table of Contents
 
-- [Visual Showcase](#visual-showcase)
 - [Environment Architecture](#environment-architecture)
 - [Repository Structure](#repository-structure)
 - [Prerequisites](#prerequisites)
@@ -112,6 +103,7 @@ sudo dnf update -y
 sudo dnf install -y \
   git \
   curl \
+  cava \
   wget \
   cargo \
   systemd \
