@@ -1,0 +1,18 @@
+# --- Font ---  
+font-family = "JetBrains Mono NL"
+font-size = 14
+
+# --- Window Layout ---  
+window-padding-x = 12
+window-padding-y = 12
+
+# --- Native Theme Selection ---
+theme = noctalia
+
+# --- Window Opacity & Blur ---  
+#background-opacity = 0.80
+background-blur = true
+
+# --- Colors (From colors.primary) ---  
+background = #1a1b26
+foreground = #c0caf5
